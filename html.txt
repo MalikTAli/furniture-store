@@ -199,6 +199,7 @@
         <div id="image">
             <img src="imge/logo.png" alt="">
         </div>
+this line was added by mkittani
          <div id="text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad deserunt corrupti laboriosam impedit iusto in optio. Iure explicabo id fugiat, aliquid nulla reprehenderit tempora enim soluta possimus vel consectetur iusto!</p>
                 <hr>
