@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leon Templete One</title>
+
+    <!--Main CSS File-->
+    <link rel="stylesheet" href="CSS\master.css">
+
+    <!--normilize css file-->
+    <link rel="stylesheet" href="CSS\normilize.css">
+
+    <!--font awsome library-->
+    <link rel="stylesheet" href="CSS\all.min.css">
+
+    <!--font type work sans-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+    <!--start header-->
+    <div calss="header">
+        <div class="continer">
+          <img id="logo1" src="imge/logo.png" alt="">
+          <div id="links">
+            <span id="icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </span>
+          <ul id="hedul">
+            <li> <a href="#services"> services </a> </li>
+            <li>  <a href="#protfolio">Protfolio</a> </li>
+            <li> <a href="#about"> about </a>  </li>
+            <li> <a href="#contact"> Contact</a> </li>
+
+          </ul>
+
+          </div>
+
+        </div>
+    </div>
+    <!--end header-->
+
+    <!--start landing section-->
+
+     <div class="landing">
+      <div class="introtext">
+        <h1>Hello There</h1>
+        <p>malik is the best web developer in the world</p>
+      </div>
+
+     </div>
+    
+    <!--end landing section-->
+
+    <!--start feature-->
+
+    <div class="features">
+        <div class="continer">
+
+          <div id="feat">
+            <i class="fa-solid fa-cloud"></i>
+             <h3>Tell Us Your Idea</h3>
+             <p> remimber that malik you will do it ndeajndajenkjcfnaekjvbkajebkaej </p>
+          </div>
+
+          <div id="feat">
+            <i class="fa-solid fa-heart"></i>
+             <h3>We Well do All The Work</h3>
+             <p> remimber that malik you will do it ndeajndajenkjcfnaekjvbkajebkaej</p>
+          </div>
+
+          <div id="feat">
+            <i class="fa-solid fa-star"></i>
+             <h3>Youer Product is world wide</h3>
+             <p>remimber that malik you will do it ndeajndajenkjcfnaekjvbkajebkaejl</p>
+          </div>
+
+        </div>
+    </div>
+
+    <!-- end feature-->
+
+    <!-- Starte Services-->
+    <div class="services">
+       <div calss="continer">
+         <h2 id="special-heading">Services</h2>
+         <p>Dont be busy,be productive</p>
+         <div class="services-content">
+        <div calss="col">
+            <!--insidecol row-->
+            <div class="serv">
+                <i class="fa-solid fa-cloud"></i>
+                <div class="text">
+                    <h3> Graphic Design</h3>
+                    <p> this is the graphic design services</p>
+                </div>
+            </div>
+            <!--insidecol row end-->
+
+                <!--insidecol row-->
+                <div class="serv">
+                    <i class="fa-solid fa-calendar"></i>
+                    <div class="text">
+                        <h3> ui & ux</h3>
+                        <p> hello there how are you</p>
+                    </div>
+                </div>
+                <!--insidecol row end-->
+        </div>
+        <div calss="col">
+               <!--insidecol row-->
+               <div class="serv">
+                <i class="fa-solid fa-ticket-simple"></i>
+                <div class="text">
+                    <h3> web Design</h3>
+                    <p> this is the web design services</p>
+                </div>
+            </div>
+            <!--insidecol row end-->
+
+                <!--insidecol row-->
+                <div class="serv">
+                    <i class="fa-solid fa-crown"></i>
+                    <div class="text">
+                        <h3> Web Development</h3>
+                        <p> hello there how are you This is the web dovlp side</p>
+                    </div>
+                </div>
+                <!--insidecol row end-->
+        </div>
+        <div calss="col">
+            <div class="imgee">
+                <img src="D:\template1_zero_web\imge\logo.png" alt="">
+            </div>
+        </div>
+
+         </div>
+       </div>
+
+    </div>
+
+    <!-- End Services-->
+
+
+ <!--Start portfoilo-->
+
+ <div id="Protfolio">
+    <div calss="continer">
+      <h2 id="special-heading">Protfolio</h2>
+      <p>if you do it right, it will last forvever</p>
+      <div id="portfolio-content">
+          <div id="card">
+            <img src="imge/portfolio1.jpg" alt="">
+            <div id="info">
+                <h3>Project here</h3>
+                <p> my greative ability to lab alb laa</p>
+            </div>
+          </div>
+          <div id="card">
+            <img src="imge/portfolio2.jpg" alt="">
+            <div id="info">
+                <h3>Project here</h3>
+                <p> my greative ability to lab alb laa jfhkjajencka wjfdnakjebvkev aejfakejbcka efjakjefkae faejfakejc ekjfakjefakejfbkajefbakje</p>
+            </div>
+          </div>
+          <div id="card">
+            <img src="imge/portfolio3.jpg" alt="">
+            <div id="info">
+                <h3>Project here</h3>
+                <p> my greative ability to lab alb laa</p>
+            </div>
+          </div>
+
+
+
+      </div>
+
+
+
+    </div>
+ </div>
+
+ <!--End portfilo-->
+
+
+ <!-- start about-->
+
+ <div id="about">
+    <div calss="continer">
+      <h2 id="special-heading">about</h2>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis aperiam doloribus debitis, ipsa et id, assumenda ab enim aspernatur eos modi, laudantium nemo non provident reiciendis. Animi eligendi inventore cum!</p>
+      <div id="about-contant">
+        <div id="image">
+            <img src="imge/logo.png" alt="">
+        </div>
+         <div id="text">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad deserunt corrupti laboriosam impedit iusto in optio. Iure explicabo id fugiat, aliquid nulla reprehenderit tempora enim soluta possimus vel consectetur iusto!</p>
+                <hr>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum provident reprehenderit voluptates, eum praesentium, voluptatum alias, harum corrupti fuga impedit magnam ex recusandae excepturi veritatis adipisci porro natus maiores laboriosam.</p>
+
+        </div>
+
+       
+      </div>
+
+    </div>
+ </div>
+
+  
+ <!-- end about-->
+
+
+
+</body>
+</html>
